@@ -6,8 +6,8 @@
       "name": "lcv6",
       "path": "PineScript/Indicators/lcv6.pine",
       "role": "canonical PineScript source for Python parity",
-      "sha256": "4cffc404ef8867744aece70e9f22184c527e6e34f7a7a3c7a224521253152542",
-      "code_sha256": "edd9f0c6af0c2f891074fdc82070a0be848f73ae952199f1241373ecb5fe18f9",
+      "sha256": "d36518f550ee655dc4f018dbcc737a45040cfe1639c22265429eaa922e026a0c",
+      "code_sha256": "e9cc5a9ccfb5ac24590445b2a43a640576afda94a28f2c578146efe1b39fd9e1",
       "allow_debug_markers": false
     },
     {
